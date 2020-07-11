@@ -21,6 +21,7 @@ which services **online video streaming platform** like *Netflix*.
 
 - 📫 How to reach me
 
-Just mail me anytime :) 
+Just mail me anytime :) here's my email
 
-here's my email, kozistr@gmail.com
+* e-mail : kozistr@gmail.com
+* blog : http://kozistr.tech
