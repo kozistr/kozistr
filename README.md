@@ -23,4 +23,4 @@ which services **online video streaming platform** like *Netflix*.
 
 Just mail me anytime :) 
 
-here's my email, kozistr@gamil.com
+here's my email, kozistr@gmail.com
