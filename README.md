@@ -13,7 +13,9 @@ which services **online video streaming platform** like *Netflix*.
 
 3. (Online) E2E Speaker Diarization
 
-4. Sequential Recommendation w/ ex/implict imformation
+4. Recommendation w/ ex/implict imformation
+
+    - Sequential Recommendation & R.L approaches
 
 5. lots of challenges like kaggle :)
 
