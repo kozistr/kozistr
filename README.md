@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hyeongchan Kim - @kozistr
+
+Hi there 👋
+
+[![Github Followers](https://img.shields.io/github/followers/kozistr?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/kozistr?tab=followers)
+
+[![kozistr's github stats](https://github-readme-stats.vercel.app/api?username=kozistr&show_icons=true&hide_border=true)](https://github.com/kozistr)
 
 - 🔭 I’m currently working on ...
 
 Working at [**Watcha**](https://www.notion.so/watcha/WATCHA-0a7284a6c7224e939be9e8f4af5e8be0) as a **Machine Learning Researcher**, 
 which services **online video streaming platform** like *Netflix*.
 
-- 🔭 I’m interested / learning in ...
+- 🔭 I’m interested in ...
 
 1. light-weighted Single Image Super Resolution (SISR)
 
@@ -23,5 +29,6 @@ which services **online video streaming platform** like *Netflix*.
 
 Just mail me anytime :) here's my email
 
-* e-mail : kozistr@gmail.com
+* [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kozistr@gmail.com)](mailto:kozistr@gmail.com)
+
 * blog : http://kozistr.tech
