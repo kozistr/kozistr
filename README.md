@@ -2,8 +2,6 @@
 
 Hi there 👋
 
-[![Github Followers](https://img.shields.io/github/followers/kozistr?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/kozistr?tab=followers)
-
 [![kozistr's github stats](https://github-readme-stats.vercel.app/api?username=kozistr&show_icons=true&hide_border=true)](https://github.com/kozistr)
 
 - 🔭 I’m currently working on ...
@@ -27,8 +25,4 @@ which services **online video streaming platform** like *Netflix*.
 
 - 📫 How to reach me
 
-Just mail me anytime :) here's my email
-
-* [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kozistr@gmail.com)](mailto:kozistr@gmail.com)
-
-* blog : http://kozistr.tech
+Just mail me anytime :) here's my [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kozistr@gmail.com)](mailto:kozistr@gmail.com)
