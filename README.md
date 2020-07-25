@@ -6,9 +6,9 @@ Hi there 👋
 
 - 👋 [Who am i](http://kozistr.tech/about) ...
 
-* Korean (soon, serving as Alternative Military Services)
+Korean (soon, serving as Alternative Military Services)
 
-* Kaggle Competition Expert 
+Kaggle Competition Expert 
 
 - 💼 I’m working on ...
 
