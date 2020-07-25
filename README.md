@@ -4,7 +4,13 @@ Hi there 👋
 
 [![kozistr's github stats](https://github-readme-stats.vercel.app/api?username=kozistr&show_icons=true&hide_border=true)](https://github.com/kozistr)
 
-- 🔭 I’m currently working on ...
+- 👋 [Who am i](http://kozistr.tech/about) ...
+
+* Korean (soon, serving as Alternative Military Services)
+
+* Kaggle Competition Expert 
+
+- 💼 I’m working on ...
 
 Working at [**Watcha**](https://www.notion.so/watcha/WATCHA-0a7284a6c7224e939be9e8f4af5e8be0) as a **Machine Learning Researcher**, 
 which services **online video streaming platform** like *Netflix*.
@@ -17,12 +23,14 @@ which services **online video streaming platform** like *Netflix*.
 
 3. (Online) E2E Speaker Diarization
 
-4. Recommendation w/ ex/implict imformation
+4. Contents (video, music, etc) Recommendation System
 
-    - Sequential Recommendation & R.L approaches
+    - Sequential Recommendation
+    
+    - R.L approaches
 
 5. lots of challenges like kaggle :)
 
 - 📫 How to reach me
 
-Just mail me anytime :) here's my [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kozistr@gmail.com)](mailto:kozistr@gmail.com)
+Feel free to mail me anytime :) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kozistr@gmail.com)](mailto:kozistr@gmail.com)
