@@ -6,9 +6,9 @@ Hi there 👋
 
 Korean (about to serve as Alternative Military Services)
 
-Interested in building / developing DL techniques & services
-
 Kaggle Competition Expert
+
+Interested in building DL techniques & services
 
 - 💼 I’m working on ...
 
@@ -32,4 +32,3 @@ which services **online video streaming platform** like *Netflix*.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kozistr@gmail.com)](mailto:kozistr@gmail.com)
 
 [![kozistr's github stats](https://github-readme-stats.vercel.app/api?username=kozistr&show_icons=true&hide_border=true)](https://github.com/kozistr)
-
