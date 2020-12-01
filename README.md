@@ -4,11 +4,11 @@ Hi there 👋
 
 - 👋 [Who am i](http://kozistr.tech/about) ...
 
-Korean (about to serve as Alternative Military Services)
+Korean (serving as Alternative Military Services)
 
 Kaggle Competition Expert
 
-Interested in building DL techniques & services
+Interested in building services & technologies based on Deep Learning
 
 - 💼 I’m working on ...
 
@@ -23,9 +23,7 @@ which services **online video streaming platform** like *Netflix*.
 
 2. E2E Speaker Diarization
 
-3. Contents (video, music, etc) Recommendation System
-
-4. Unsupervised I2I image multi-domain transfer
+3. Unsupervised I2I image multi-domain transfer
 
 - 📫 How to reach me
 
