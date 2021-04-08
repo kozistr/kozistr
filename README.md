@@ -10,11 +10,6 @@ Kaggle Competition Expert
 
 Interested in building services & technologies based on Deep Learning
 
-- 💼 I’m working on ...
-
-Working at [**Watcha**](https://www.notion.so/watcha/WATCHA-0a7284a6c7224e939be9e8f4af5e8be0) as a **Machine Learning Researcher**, 
-which services **online video streaming platform** like *Netflix*.
-
 - 🔭 I’m interested in ...
 
 0. Lots of challenges like **kaggle** :)
