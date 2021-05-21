@@ -4,7 +4,7 @@ Hi there 👋
 
 - 👋 [Who am i](http://kozistr.tech/about) ...
 
-Korean (serving as Alternative Military Services)
+Korean (serving as Alternative Military Services, `20/11/27~23/9/26`)
 
 Kaggle Competition Expert
 
@@ -14,11 +14,7 @@ Interested in building services & technologies based on Deep Learning
 
 0. Lots of challenges like **kaggle** :)
 
-1. *light-weighted* Single Image Super Resolution (SISR)
-
-2. E2E Speaker Diarization
-
-3. Unsupervised I2I image multi-domain transfer
+1. E2E Speaker Diarization
 
 - 📫 How to reach me
 
