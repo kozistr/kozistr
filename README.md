@@ -12,9 +12,9 @@ Interested in building services & technologies based on Deep Learning
 
 - 🔭 I’m interested in ...
 
-0. Lots of challenges like **kaggle** :)
+Lots of challenges like **kaggle** :)
 
-1. E2E Speaker Diarization
+E2E Speaker Diarization
 
 - 📫 How to reach me
 
