@@ -24,6 +24,9 @@ hi, i'm [kozistr](http://kozistr.tech/about).
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 📈 my github stats
