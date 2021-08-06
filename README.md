@@ -1,23 +1,31 @@
-### Hyeongchan Kim - @kozistr
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi there 👋
+<a href="https://www.linkedin.com/in/kozistr/">
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://medium.com/@kozistr">
+  <img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />
+</a>
 
-- 👋 [Who am i](http://kozistr.tech/about) ...
+![](https://visitor-badge.glitch.me/badge?page_id=kozistr.kozistr)
 
-Korean (serving as Alternative Military Services, `20/11/27~23/9/26`)
+<br />
 
-Kaggle Competition Expert
+hi, i'm [kozistr](http://kozistr.tech/about).
 
-Interested in building services & technologies based on Deep Learning
+* Serving as Alternative Military Services (`20/11/27 ~ 23/9/26`)
 
-- 🔭 I’m interested in ...
+* Kaggle Competition Expert
 
-Lots of challenges like **kaggle** :)
+* Interested in building services & technologies based on Deep Learning
 
-E2E Speaker Diarization
+**languages and tools:**  
 
-- 📫 How to reach me
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kozistr@gmail.com)](mailto:kozistr@gmail.com)
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-[![kozistr's github stats](https://github-readme-stats.vercel.app/api?username=kozistr&show_icons=true&hide_border=true)](https://github.com/kozistr)
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kozistr&show_icons=true&theme=gotham" alt="kozistr" />
