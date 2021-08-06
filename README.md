@@ -25,7 +25,8 @@ hi, i'm [kozistr](http://kozistr.tech/about).
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML       17 mins         ███████████████▓░░░░░░░░░   62.55 % 
+Markdown   10 mins         █████████░░░░░░░░░░░░░░░░   36.48 % 
 ```
 <!--END_SECTION:waka-->
 
