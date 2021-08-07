@@ -15,7 +15,7 @@
 
 <br />
 
-Hi! I'm Hyeongchan Kim, Machine Learning Engineer/Researcher from Korea. Here's my Blog/CV [kozistr](http://kozistr.tech/about).
+Hi! I'm Hyeongchan Kim, Machine Learning Engineer/Researcher from Korea. Here's [my Blog/CV](http://kozistr.tech/about).
 
 * Serving as Alternative Military Services (`20/11/27 ~ 23/9/26`)
 
