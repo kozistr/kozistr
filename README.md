@@ -24,13 +24,13 @@ hi, i'm [kozistr](http://kozistr.tech/about).
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-921273%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-921387%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,501 Contributions in the Year 2021
+> 🏆 1,516 Contributions in the Year 2021
  > 
 > 📦 524.5 kB Used in Github's Storage 
  > 
@@ -43,10 +43,10 @@ hi, i'm [kozistr](http://kozistr.tech/about).
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.01% 
-🌆 Daytime    388 commits    █████████████░░░░░░░░░░░░   54.42% 
-🌃 Evening    195 commits    ██████░░░░░░░░░░░░░░░░░░░   27.35% 
-🌙 Night      23 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+🌞 Morning    109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
+🌆 Daytime    393 commits    █████████████░░░░░░░░░░░░   55.12% 
+🌃 Evening    190 commits    ██████░░░░░░░░░░░░░░░░░░░   26.65% 
+🌙 Night      21 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.95%
 
 ```
 
