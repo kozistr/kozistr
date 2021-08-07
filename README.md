@@ -23,6 +23,8 @@ hi, i'm [kozistr](http://kozistr.tech/about).
 
 * Interested in building services & technologies based on Deep Learning
 
+* Feel free to contact me `kozistr@gmail.com` :)
+
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue)
