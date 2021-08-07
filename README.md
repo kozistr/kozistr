@@ -2,7 +2,7 @@
 
 <div class="icons">
   <a href="https://kaggle.com/kozistr">
-    <img align="left" alt="Kaggle" width="12px" src="assets/kaggle-brands.svg" />
+    <img align="left" alt="Kaggle" width="10px" src="assets/kaggle-brands.svg" />
   </a>
   <a href="https://www.linkedin.com/in/kozistr/">
     <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
