@@ -10,6 +10,7 @@
   <a href="https://medium.com/@kozistr">
     <img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />
   </a>
+  <br />
 </div>
 
 <br />
