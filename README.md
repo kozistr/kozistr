@@ -33,7 +33,7 @@ Hi! I'm Hyeongchan Kim, Machine Learning Engineer/Researcher from Korea. Here's 
 
 **🐱 My Github Data** 
 
-> 🏆 1,783 Contributions in the Year 2021
+> 🏆 1,784 Contributions in the Year 2021
  > 
 > 📦 530.2 kB Used in Github's Storage 
  > 
@@ -60,7 +60,7 @@ Hi! I'm Hyeongchan Kim, Machine Learning Engineer/Researcher from Korea. Here's 
 ```
 
 
- Last Updated on 14/08/2021
+ Last Updated on 15/08/2021
 <!--END_SECTION:waka-->
 
 📈 my github stats
