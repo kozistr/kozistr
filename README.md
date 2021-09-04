@@ -29,13 +29,13 @@ Hi! I'm Hyeongchan Kim, Machine Learning Engineer/Researcher from Korea. Here's 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-927315%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-932994%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,141 Contributions in the Year 2021
+> 🏆 2,145 Contributions in the Year 2021
  > 
-> 📦 530.9 kB Used in Github's Storage 
+> 📦 531.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,7 +60,7 @@ Hi! I'm Hyeongchan Kim, Machine Learning Engineer/Researcher from Korea. Here's 
 ```
 
 
- Last Updated on 03/09/2021
+ Last Updated on 04/09/2021
 <!--END_SECTION:waka-->
 
 📈 my github stats
