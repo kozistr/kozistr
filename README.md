@@ -35,9 +35,9 @@ Hi! I'm Hyeongchan Kim, Machine Learning Engineer/Researcher from Korea. Here's 
 
 > 🏆 2,145 Contributions in the Year 2021
  > 
-> 📦 531.2 kB Used in Github's Storage 
+> 📦 547.7 kB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 43 Public Repositories 
  > 
