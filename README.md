@@ -27,29 +27,29 @@ Hi! I'm Hyeongchan Kim, Machine Learning Engineer/Researcher from Korea. Here's 
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-957912%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-958677%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
-> 🏆 2,249 Contributions in the Year 2021
+> 🏆 2,491 Contributions in the Year 2021
  > 
-> 📦 585.9 kB Used in Github's Storage 
+> 📦 586.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 43 Public Repositories 
+> 📜 44 Public Repositories 
  > 
 > 🔑 12 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.82% 
-🌆 Daytime    348 commits    ████████████░░░░░░░░░░░░░   50.8% 
-🌃 Evening    214 commits    ███████░░░░░░░░░░░░░░░░░░   31.24% 
-🌙 Night      42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.13%
+🌞 Morning    81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.32% 
+🌆 Daytime    430 commits    █████████████░░░░░░░░░░░░   54.78% 
+🌃 Evening    232 commits    ███████░░░░░░░░░░░░░░░░░░   29.55% 
+🌙 Night      42 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.35%
 
 ```
 
@@ -60,7 +60,7 @@ Hi! I'm Hyeongchan Kim, Machine Learning Engineer/Researcher from Korea. Here's 
 ```
 
 
- Last Updated on 20/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
 
 📈 my github stats
