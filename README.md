@@ -27,7 +27,7 @@ Hi! I'm Hyeongchan Kim, Machine Learning Engineer/Researcher from Korea. Here's 
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-956053%20lines%20of%20code-blue)
 
@@ -46,10 +46,10 @@ Hi! I'm Hyeongchan Kim, Machine Learning Engineer/Researcher from Korea. Here's 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.68% 
-🌆 Daytime    360 commits    ███████████░░░░░░░░░░░░░░   46.04% 
-🌃 Evening    269 commits    ████████░░░░░░░░░░░░░░░░░   34.4% 
-🌙 Night      46 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+🌞 Morning    96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.45% 
+🌆 Daytime    360 commits    ███████████░░░░░░░░░░░░░░   46.69% 
+🌃 Evening    269 commits    ████████░░░░░░░░░░░░░░░░░   34.89% 
+🌙 Night      46 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
 
 ```
 
@@ -60,7 +60,7 @@ Hi! I'm Hyeongchan Kim, Machine Learning Engineer/Researcher from Korea. Here's 
 ```
 
 
- Last Updated on 30/11/2021
+ Last Updated on 01/12/2021
 <!--END_SECTION:waka-->
 
 📈 my github stats
