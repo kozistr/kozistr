@@ -15,15 +15,14 @@
 
 <br />
 
-Hi! I'm Hyeongchan Kim, Machine Learning Engineer/Researcher from Korea. Here's [my Blog/CV](http://kozistr.tech/about).
+Hi! I'm Hyeongchan Kim, Data Scientist & Machine Learning Engineer from Korea. Here's [my Blog/CV](http://kozistr.tech/about). Currently, I'm serving as Alterative Military Service from `2020-11-27` to `2023-09-26`. Feel free to contact me at the email `kozistr@gmail.com` :)
 
-* Serving as Alternative Military Services (`20/11/27 ~ 23/9/26`)
+**Company**
 
-* Kaggle Competition Expert
-
-* Interested in building services & technologies based on Deep Learning
-
-* Feel free to contact me at the email `kozistr@gmail.com` :)
+* `2019-01 ~ 2019-10` VoyagerX
+* `2019-11 ~ 2020-06` Rainist
+* `2020-06 ~ 2021-12` Watcha
+* `2021-12 ~ Present` Toss core
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
