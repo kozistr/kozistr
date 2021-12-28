@@ -32,13 +32,25 @@ Hi! I'm Hyeongchan Kim, Data Scientist & Machine Learning Engineer from Korea. H
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-785%20Thousand%20lines%20of%20code-blue)
 
+**🐱 My GitHub Data** 
+
+> 🏆 1,564 Contributions in the Year 2021
+ > 
+> 📦 620.6 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 44 Public Repositories 
+ > 
+> 🔑 12 Private Repositories  
+ > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.15% 
-🌆 Daytime    327 commits    ██████████░░░░░░░░░░░░░░░   43.25% 
-🌃 Evening    276 commits    █████████░░░░░░░░░░░░░░░░   36.51% 
-🌙 Night      46 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.08%
+🌞 Morning    107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.12% 
+🌆 Daytime    329 commits    ██████████░░░░░░░░░░░░░░░   43.4% 
+🌃 Evening    276 commits    █████████░░░░░░░░░░░░░░░░   36.41% 
+🌙 Night      46 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.07%
 
 ```
 
