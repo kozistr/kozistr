@@ -34,7 +34,7 @@ Hi! I'm Hyeongchan Kim, Data Scientist & Machine Learning Engineer from Korea. H
 
 **🐱 My GitHub Data** 
 
-> 🏆 21 Contributions in the Year 2022
+> 🏆 22 Contributions in the Year 2022
  > 
 > 📦 589.3 kB Used in GitHub's Storage 
  > 
@@ -47,10 +47,10 @@ Hi! I'm Hyeongchan Kim, Data Scientist & Machine Learning Engineer from Korea. H
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
-🌆 Daytime    338 commits    ███████████░░░░░░░░░░░░░░   43.67% 
-🌃 Evening    286 commits    █████████░░░░░░░░░░░░░░░░   36.95% 
-🌙 Night      48 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.2%
+🌞 Morning    102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
+🌆 Daytime    338 commits    ███████████░░░░░░░░░░░░░░   43.61% 
+🌃 Evening    287 commits    █████████░░░░░░░░░░░░░░░░   37.03% 
+🌙 Night      48 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.19%
 
 ```
 
@@ -61,7 +61,7 @@ Hi! I'm Hyeongchan Kim, Data Scientist & Machine Learning Engineer from Korea. H
 ```
 
 
- Last Updated on 04/01/2022
+ Last Updated on 05/01/2022
 <!--END_SECTION:waka-->
 
 📈 my github stats
