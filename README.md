@@ -25,6 +25,14 @@ Currently, I'm serving as Alternative Military Service from `2020-11-27` to `202
 * `2020-06 ~ 2021-12` Watcha - Machine Learning Researcher
 * `2021-12 ~ Present` Toss core - Data Scientist
 
+**Current Interests**
+
+* Rust Language
+* ML/DL model serving
+  * lightweight architecture (model side)
+  * lots of optimizations on engineering side
+* Kaggle Challenges
+
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
