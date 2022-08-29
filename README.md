@@ -27,11 +27,9 @@ Currently, I'm serving as Alternative Military Service from `2020-11-27` to `202
 
 **Current Interests**
 
-* Rust Language
-* ML/DL model serving
-  * lightweight architecture (model side)
-  * lots of optimizations on engineering side
 * Kaggle Challenges
+* Rust Language
+* lightweight architecture
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
