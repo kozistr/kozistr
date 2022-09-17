@@ -51,7 +51,7 @@ Currently, I'm serving as Alternative Military Service from `2020-11-27` to `202
 
 
 
- Last Updated on 16/09/2022 15:12:08 UTC
+ Last Updated on 17/09/2022 15:12:04 UTC
 <!--END_SECTION:waka-->
 
 📈 my github stats
