@@ -39,8 +39,19 @@ Currently, I'm serving as Alternative Military Service from `2020-11-27` to `202
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-766%20Thousand%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
 
- Last Updated on 10/11/2022 15:15:50 UTC
+```text
+🌞 Morning    62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.48% 
+🌆 Daytime    235 commits    █████████░░░░░░░░░░░░░░░░   35.93% 
+🌃 Evening    206 commits    ████████░░░░░░░░░░░░░░░░░   31.5% 
+🌙 Night      151 commits    █████░░░░░░░░░░░░░░░░░░░░   23.09%
+
+```
+
+
+
+ Last Updated on 11/11/2022 15:11:40 UTC
 <!--END_SECTION:waka-->
 
 📈 my github stats
