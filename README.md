@@ -37,7 +37,7 @@ Currently, I'm serving as Alternative Military Service from `2020-11-27` to `202
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-778%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-779%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -51,7 +51,7 @@ Currently, I'm serving as Alternative Military Service from `2020-11-27` to `202
 
 
 
- Last Updated on 25/11/2022 15:14:14 UTC
+ Last Updated on 26/11/2022 15:09:56 UTC
 <!--END_SECTION:waka-->
 
 📈 my github stats
