@@ -35,7 +35,7 @@ Currently, I'm serving as Alternative Military Service from `2020-11-27` to `202
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-780%20Thousand%20lines%20of%20code-blue)
 
@@ -51,7 +51,7 @@ Currently, I'm serving as Alternative Military Service from `2020-11-27` to `202
 
 
 
- Last Updated on 04/01/2023 15:20:24 UTC
+ Last Updated on 05/01/2023 15:17:59 UTC
 <!--END_SECTION:waka-->
 
 📈 my github stats
