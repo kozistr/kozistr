@@ -35,23 +35,23 @@ Currently, I'm serving as Alternative Military Service from `2020-11-27` to `202
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning       45 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-🌆 Daytime      262 commits       ██████████░░░░░░░░░░░░░░░   40.37 % 
-🌃 Evening      204 commits       ███████░░░░░░░░░░░░░░░░░░   31.43 % 
-🌙 Night        138 commits       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+🌞 Morning      453 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+🌆 Daytime     2490 commits       █████████░░░░░░░░░░░░░░░░   39.13 % 
+🌃 Evening     2352 commits       █████████░░░░░░░░░░░░░░░░   36.96 % 
+🌙 Night       1068 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
 
 ```
 
 
 
- Last Updated on 21/02/2023 13:47:30 UTC
+ Last Updated on 22/02/2023 10:20:32 UTC
 <!--END_SECTION:waka-->
 
 📈 my github stats
