@@ -37,12 +37,12 @@ Currently, I'm serving as Alternative Military Service from `2020-11-27` to `202
 ```text
 Total Time: 255 hrs 36 mins
 
-Markdown           106 hrs 24 mins >>>>>>>>>>---------------   41.63 %
-Python             94 hrs 17 mins  >>>>>>>>>----------------   36.89 %
-YAML               9 hrs 16 mins   >------------------------   03.63 %
-JSON               9 hrs 8 mins    >------------------------   03.58 %
-JavaScript         8 hrs 34 mins   >------------------------   03.35 %
-Jupyter            5 hrs 14 mins   >------------------------   02.05 %
+Markdown                           >>>>>>>>>>---------------   41.63 %
+Python                             >>>>>>>>>----------------   36.89 %
+YAML                               >------------------------   03.63 %
+JSON                               >------------------------   03.58 %
+JavaScript                         >------------------------   03.35 %
+Jupyter                            >------------------------   02.05 %
 ```
 
 <!--END_SECTION:waka-->
