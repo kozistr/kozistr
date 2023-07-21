@@ -5,10 +5,10 @@
     <img align="left" alt="Kaggle" width="16px" src="assets/kaggle-brands.svg" />
   </a>
   <a href="https://www.linkedin.com/in/kozistr/">
-    <img align="left" alt="LinkedIN" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
+    <img align="left" alt="LinkedIN" width="26px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
   </a>
   <a href="https://medium.com/@kozistr">
-    <img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />
+    <img align="left" alt="Medium" width="26px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg" />
   </a>
   <br />
 </div>
