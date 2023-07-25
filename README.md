@@ -33,18 +33,22 @@ Currently, I'm serving as Alternative Military Service from `2020-11-27` to `202
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-76-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
 
 ```text
-Total Time: 266 hrs 38 mins
-
-Markdown           106 hrs 24 mins >>>>>>>>>>---------------   39.90 %
-Python             105 hrs 2 mins  >>>>>>>>>>---------------   39.40 %
-YAML               9 hrs 16 mins   >------------------------   03.48 %
-JSON               9 hrs 8 mins    >------------------------   03.43 %
-JavaScript         8 hrs 34 mins   >------------------------   03.21 %
-Jupyter            5 hrs 30 mins   >------------------------   02.07 %
+🌞 Morning                786 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+🌆 Daytime                4716 commits        ██████████░░░░░░░░░░░░░░░   40.82 % 
+🌃 Evening                4308 commits        █████████░░░░░░░░░░░░░░░░   37.29 % 
+🌙 Night                  1743 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
 ```
 
+
+
+ Last Updated on 25/07/2023 15:22:47 UTC
 <!--END_SECTION:waka-->
 
 📈 my github stats
