@@ -25,7 +25,7 @@ Currently, I'm serving as Alternative Military Service from `2020-11-27` to `202
 * `2019-01 ~ 2019-10` VoyagerX - Deep Learning Engineer
 * `2019-11 ~ 2020-06` Rainist - Machine Learning Engineer
 * `2020-06 ~ 2021-12` Watcha - Machine Learning Researcher
-* `2021-12 ~ Present` Toss core - Data Scientist
+* `2021-12 ~ 2023-09` Toss core - Data Scientist
 
 **Current Interests**
 
