@@ -38,22 +38,22 @@ Feel free to contact me at the email `kozistr@gmail.com` :)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                807 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-🌆 Daytime                4909 commits        ██████████░░░░░░░░░░░░░░░   40.95 % 
-🌃 Evening                4511 commits        █████████░░░░░░░░░░░░░░░░   37.63 % 
-🌙 Night                  1760 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+🌞 Morning                813 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+🌆 Daytime                4929 commits        ██████████░░░░░░░░░░░░░░░   40.91 % 
+🌃 Evening                4544 commits        █████████░░░░░░░░░░░░░░░░   37.72 % 
+🌙 Night                  1761 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 ```
 
 
 
- Last Updated on 23/09/2023 15:08:38 UTC
+ Last Updated on 26/09/2023 15:10:25 UTC
 <!--END_SECTION:waka-->
 
 📈 my github stats
