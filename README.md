@@ -15,23 +15,25 @@
 
 <br />
 
-Hello! I'm Hyeongchan from Korea.
+Hello! I'm Hyeongchan from Korea. I enjoy programming, working out, and bouldering these days.
 
 * I'm currently building a ...
 * Here's [my CV](http://kozistr.tech/about). Feel free to contact me at the email `kozistr@gmail.com` :)
 
 **previously...**
 
-* 2023 ~ : ~
-* 2021 ~ 2023: Joined `Toss`. Developed and contributed to lots of products like BNPL, CSS, OCR, NPS, CDP, and in-house products.
-* 2020 ~ 2021: Joined `Watcha` to build a recommendation system with deep learning. Developed deep learning recommender that outperforms the previous algorithm, and contributed to other products like WatchaPedia, an in-house applications.
-* 2019 ~ 2020: Joined `Rainist`. Developed a transaction classifier service to analyze the categories with low latency, high accuracy, and in real-time.
-* 2019: Joined `VoyagerX`. Developed a speaker diarization product that automatically recognizes the contents of the meeting.
+* **2023 ~ 20** : ~
+* **2021 ~ 2023** : Joined `Toss`. Developed and contributed to lots of products like BNPL, CSS, OCR, NPS, CDP, and in-house products.
+* **2020 ~ 2021** : Joined `Watcha` to build a recommendation system with deep learning. Developed deep learning recommender that outperforms the previous algorithm, and contributed to other products like WatchaPedia, in-house applications.
+* **2019 ~ 2020** : Joined `Rainist`. Developed a transaction classifier service to analyze the categories with low latency, high accuracy, and in real-time.
+* **2019** : Joined `VoyagerX`. Developed a speaker diarization product that automatically recognizes the contents of the meeting.
+* **~ 2019** : offensive security stuffs
 
 **Current Interests**
 
 * Kaggle Challenges
-* Rust Language
+* Building something with Rust
+* Bouldering
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
