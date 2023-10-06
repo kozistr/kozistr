@@ -15,16 +15,18 @@
 
 <br />
 
-Hi! I'm Hyeongchan Kim, Machine Learning Engineer & Data Scientist from Korea. Here's [my Blog/CV](http://kozistr.tech/about).
+Hello! I'm Hyeongchan from Korea.
 
-Feel free to contact me at the email `kozistr@gmail.com` :)
+* I'm currently building a ...
+* Here's [my CV](http://kozistr.tech/about). Feel free to contact me at the email `kozistr@gmail.com` :)
 
-**Company**
+**previously...**
 
-* `2019-01 ~ 2019-10` VoyagerX - Deep Learning Engineer
-* `2019-11 ~ 2020-06` Rainist - Machine Learning Engineer
-* `2020-06 ~ 2021-12` Watcha - Machine Learning Researcher
-* `2021-12 ~ 2023-09` Toss core - Data Scientist
+* 2023 ~ : ~
+* 2021 ~ 2023: Joined `Toss`. Developed and contributed to lots of products like BNPL, CSS, OCR, NPS, CDP, and in-house products.
+* 2020 ~ 2021: Joined `Watcha` to build a recommendation system with deep learning. Developed deep learning recommender that outperforms the previous algorithm, and contributed to other products like WatchaPedia, an in-house applications.
+* 2019 ~ 2020: Joined `Rainist`. Developed a transaction classifier service to analyze the categories with low latency, high accuracy, and in real-time.
+* 2019: Joined `VoyagerX`. Developed a speaker diarization product that automatically recognizes the contents of the meeting.
 
 **Current Interests**
 
