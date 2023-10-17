@@ -20,7 +20,7 @@ Hello! I'm Hyeongchan from Korea. I enjoy programming, working out, and boulderi
 * I'm currently building a ...
 * Service many machine learning products in various domains, Audio & Speech, Vision, NLP, Recommendation Systems, and Tabular in many startups.
 * Kaggle 2x Expert. the highest competition rank is **top 0.1%**.
-* Here's my [C.V.](http://kozistr.tech/about). Feel free to contact me at the email `kozistr@gmail.com` :)
+* Here's my [C.V](http://kozistr.tech/about). Feel free to contact me at the email `kozistr@gmail.com` :)
 
 **previously...**
 
@@ -33,7 +33,7 @@ Hello! I'm Hyeongchan from Korea. I enjoy programming, working out, and boulderi
 **Current Interests**
 
 * Kaggle Challenges
-* Building something with Rust
+* Building something in Rust
 * Bouldering
 
 📊 **this week i spent my time on:**
