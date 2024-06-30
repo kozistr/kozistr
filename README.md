@@ -17,15 +17,15 @@
 
 Hello! I'm Hyeongchan from Korea. I enjoy programming, working out, and bouldering.
 
-* I'm currently building a ...
-* Service many machine learning products in various domains, Audio & Speech, Vision, NLP, Recommendation Systems, and Tabular in many startups.
+* Service many machine learning products in various domains, Audio & Speech, Vision, NLP, Recommendation Systems, Tabular, and LLM applications in many startups.
 * Kaggle 2x Expert. the highest competition rank is **top 0.1%**.
 * Here's my [C.V](http://kozistr.tech/about). Feel free to contact me at the email `kozistr@gmail.com` :)
 
 **previously...**
 
-* **2021 - 2023** : Joined `Viva Republica` (`Toss`). Developed and contributed to many products like BNPL, CSS, OCR, NPS, CDP, and in-house products.
-* **2020 - 2021** : Joined `Watcha` to build a recommendation system with deep learning. Developed deep learning recommender that outperforms the previous algorithm, and contributed to other products like WatchaPedia, in-house applications.
+* **2023 - 2024** : Joined `Sionic.AI`. Built enterprise-grade LLM applications.
+* **2021 - 2023** : Joined `Viva Republica` (`Toss`). Developed many products like BNPL, CSS, OCR, NPS, CDP, and in-house products.
+* **2020 - 2021** : Joined `Watcha`. Developed Watcha recommendation system, and contributed to other products like WatchaPedia, in-house applications.
 * **2019 - 2020** : Joined `Rainist` (`Banksalad`). Developed a transaction classifier service to analyze the categories with low latency, high accuracy, and in real-time.
 * **2019** : Joined `VoyagerX`. Developed a speaker diarization product that automatically recognizes the contents of the meeting.
 * **- 2019** : offensive security stuffs. Mainly researched and studied Linux kernel exploitation and reverse engineering.
