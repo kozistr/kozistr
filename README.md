@@ -53,7 +53,7 @@ Hello! I'm Hyeongchan from Korea. I enjoy programming, working out, and boulderi
 
 
 
- Last Updated on 05/02/2025 15:38:38 UTC
+ Last Updated on 06/02/2025 15:38:30 UTC
 <!--END_SECTION:waka-->
 
 📈 my github stats
