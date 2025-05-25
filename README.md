@@ -38,7 +38,7 @@ Hello! I'm Hyeongchan from Korea. I enjoy programming, working out, and boulderi
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
@@ -47,13 +47,13 @@ Hello! I'm Hyeongchan from Korea. I enjoy programming, working out, and boulderi
 ```text
 🌞 Morning                965 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 🌆 Daytime                5987 commits        ██████████░░░░░░░░░░░░░░░   41.04 % 
-🌃 Evening                5379 commits        █████████░░░░░░░░░░░░░░░░   36.88 % 
-🌙 Night                  2256 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+🌃 Evening                5379 commits        █████████░░░░░░░░░░░░░░░░   36.87 % 
+🌙 Night                  2257 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
 ```
 
 
 
- Last Updated on 24/05/2025 15:16:52 UTC
+ Last Updated on 25/05/2025 15:17:11 UTC
 <!--END_SECTION:waka-->
 
 📈 my github stats
