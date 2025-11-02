@@ -43,7 +43,7 @@ Hello! I'm Hyeongchan from Korea. I enjoy programming, working out, and boulderi
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
 
- Last Updated on 01/11/2025 15:16:54 UTC
+ Last Updated on 02/11/2025 15:16:22 UTC
 <!--END_SECTION:waka-->
 
 📈 my github stats
