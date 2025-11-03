@@ -38,12 +38,12 @@ Hello! I'm Hyeongchan from Korea. I enjoy programming, working out, and boulderi
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
 
 
- Last Updated on 02/11/2025 15:16:22 UTC
+ Last Updated on 03/11/2025 15:20:02 UTC
 <!--END_SECTION:waka-->
 
 📈 my github stats
