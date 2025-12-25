@@ -40,20 +40,20 @@ Hello! I'm Hyeongchan from Korea. I enjoy programming, working out, and boulderi
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                965 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-🌆 Daytime                6033 commits        ██████████░░░░░░░░░░░░░░░   40.31 % 
-🌃 Evening                5495 commits        █████████░░░░░░░░░░░░░░░░   36.71 % 
-🌙 Night                  2475 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+🌞 Morning                1137 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+🌆 Daytime                8122 commits        ███████████░░░░░░░░░░░░░░   42.82 % 
+🌃 Evening                7077 commits        █████████░░░░░░░░░░░░░░░░   37.31 % 
+🌙 Night                  2631 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
 ```
 
 
 
- Last Updated on 23/12/2025 15:21:37 UTC
+ Last Updated on 25/12/2025 15:20:43 UTC
 <!--END_SECTION:waka-->
 
 📈 my github stats
