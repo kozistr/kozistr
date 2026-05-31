@@ -47,13 +47,13 @@ Hello! I'm Hyeongchan from Korea. I enjoy programming, working out, and boulderi
 ```text
 🌞 Morning                967 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 🌆 Daytime                6062 commits        ██████████░░░░░░░░░░░░░░░   39.61 % 
-🌃 Evening                5572 commits        █████████░░░░░░░░░░░░░░░░   36.41 % 
-🌙 Night                  2704 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+🌃 Evening                5572 commits        █████████░░░░░░░░░░░░░░░░   36.40 % 
+🌙 Night                  2705 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
 ```
 
 
 
- Last Updated on 30/05/2026 16:05:33 UTC
+ Last Updated on 31/05/2026 16:06:16 UTC
 <!--END_SECTION:waka-->
 
 📈 my github stats
